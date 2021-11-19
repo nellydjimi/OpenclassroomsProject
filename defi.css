@@ -1,0 +1,107 @@
+body {
+    margin-left:100px;
+    margin-right: 100px;
+    font-family: 'Roboto', sans-serif;}
+
+
+
+
+
+#header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;}
+
+
+#head {
+    display: flex;
+    list-style-type : none ;
+    flex-direction: row;}
+
+#accueil {
+    padding-left: 10px;}
+
+#contact {
+    padding-left : 30px;}
+
+#banniere {
+    background-image: url("../images/backgroung_image.jpg");
+    background-size: 1000px;
+    padding-bottom: 143px;}
+
+#longlogo {
+   text-align: center;
+    padding-top: 145px;}
+
+#imagelogolong {
+    width: 150px;
+	height: 50px;}
+
+#titreprincipal {
+    text-align: center;
+    color: white;}
+
+
+#section2 {
+    text-align: center;
+margin-top: 50px;
+padding-bottom: 20px;}
+
+#titresection {
+    padding:20px;}
+
+#infosite { 
+    display: flex;
+    flex-direction:row ;
+    justify-content: center;}
+
+.paraphrases {
+    font-size: 12px;}
+
+.icone {
+    text-align: center;
+    padding: 15px;}
+
+#avis {
+    text-align: center;}
+
+#avis2 {
+    text-align: center;}
+
+#footer { 
+    background-color: #5b359d;}
+
+#footertitre {
+    text-align :center ;
+    color : white ;
+padding-top: 10px;}
+
+#reseaux {
+    display:flex;
+    justify-content: space-between;
+	color: rgba(255, 255, 255, .6);
+    font-size: 30px;
+    text-align: center;
+    padding-left: 350px;
+    padding-right: 350px;}
+
+
+#footerinfo {
+    text-align: center;
+    color : white;
+    display: flex;
+    justify-content: space-around;
+list-style-type: disc;}
+
+#accesrapide{
+    display: flex;
+}
+#apropos{
+    display: flex;
+}
+#coordonnées{
+    display: flex;
+
+}
